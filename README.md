@@ -2,7 +2,7 @@
 
 **Problem**
 
-Identify what factors influence power efficiency across systems to :
+Identifying factors influencing power efficiency across systems to :
 
 Identify inefficiencies in energy use,
 
